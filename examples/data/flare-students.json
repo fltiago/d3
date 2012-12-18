@@ -1,0 +1,50 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": 9,
+     "children": [
+      {"name": "Tiago Lima", "size": 30},
+      {"name": "Juliana Lucena", "size": 20},
+      {"name": "Jéssica Barbalho", "size": 25},
+      {"name": "Cássia", "size": 40},
+      {"name": "Renata Cavalcanti", "size": 12},
+      {"name": "Domingos Sábados", "size": 32},
+      {"name": "Alexandre Calabria", "size": 40}
+     ]
+    },
+    {
+     "name": 5,
+     "children": [
+      {"name": "Matheus", "size": 20},
+      {"name": "Guilherme", "size": 25},
+      {"name": "Igor", "size": 20},
+      {"name": "André Diniz", "size": 14},
+      {"name": "Thaís Bione", "size": 16},
+      {"name": "Vanessa Barbalho", "size": 20},
+      {"name": "Tácio Ferreira", "size": 14},
+      {"name": "Taísa Ferreira", "size": 16}
+     ]
+    },
+    {
+     "name": 3,
+     "children": [
+     {"name": "Roberval Lima", "size": 4},
+     {"name": "Dante Lucena", "size": 6},
+     {"name": "Cainã Medeiros", "size": 1}
+     ]
+    },
+    {
+      "name": 7,
+      "children": [
+        {"name": "Filipe Wanderley", "size": 22 }
+      ]
+    }
+   ]
+  }
+ ]
+}
+

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <title>Crossfilter</title>
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" charset="utf-8"/>
+  </head>
+
+  <body>
+    <div id="body">
+
+      <div id="charts">
+        <div id="date-chart" class="chart">
+          <div class="title">Frequência no curso</div>
+        </div>
+        <div id="delay-chart" class="chart">
+          <div class="title">Tempo de Permanência no curso</div>
+        </div>
+        <div id="hour-chart" class="chart">
+          <div class="title">Período do Dia</div>
+        </div>
+      </div>
+
+      <div id="lists">
+        <div id="flight-list" class="list"></div>
+      </div>
+
+   </div>
+
+   <div class="flight-head">
+     <span class="time">Horário</span>
+     <span class="origin">Disciplina</span>
+     <span class="destination">Aluno</span>
+     <span class="delay">Permanência</span>
+   </div>
+
+    <script type="text/javascript" src="crossfilter.v1.min.js"></script>
+    <script type="text/javascript" src="../../d3.v2.min.js"></script>
+    <script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="space.js"></script>
+  </body>
+</html>
